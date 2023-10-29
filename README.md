@@ -4,7 +4,7 @@
 - Python backend developer
 - Geophysicist, Oil and Gas Drilling professional
 - Invented Web-based application for O&G company on my current position
-- Yandex-Practicum Hackathon Winner 🥇:
+- Yandex-Practicum Hackathon Winner 🥇
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -27,5 +27,3 @@ also:
 | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></a> | <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Postman" src="https://simpleicons.org/icons/postman.svg" /></a> |
 | --- | --- |
 | &nbsp;&nbsp;&nbsp;Git | Postman |
-
-___
