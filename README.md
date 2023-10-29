@@ -1,10 +1,10 @@
 # Hey there! My name is Andrei Iadin
 
-### :index finger pointing right: About me:
+### About me 👇:
 - Python backend developer
 - Geophysicist, Oil and Gas Drilling professional
 - Invented Web-based application for O&G company on my current position
-- Yandex-Practicum Hackathon Winner :Trophy:
+- Yandex-Practicum Hackathon Winner 🥇:
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -17,9 +17,9 @@
 
 backend:  
 
-| <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a> | <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></a> | <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="DRF" src="https://icon.icepanel.io/Technology/svg/Django-REST.svg" /></a> | <a href="https://nginx.org/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /></a> |
-| --- | --- | --- | --- |
-| Python | Django | &nbsp;&nbsp;DRF | &nbsp;Nginx |
+| <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a> | <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></a> | <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="DRF" src="https://icon.icepanel.io/Technology/svg/Django-REST.svg" /></a> | <a href="https://nginx.org/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /></a> | <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a> | <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a> | <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img width="45" height="45" alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></a> |
+| --- | --- | --- | --- | --- | --- | --- |
+| Python | Django | &nbsp;&nbsp;DRF | &nbsp;Nginx | PostgreSQL | Docker | Pandas |
 
 
 also:  
